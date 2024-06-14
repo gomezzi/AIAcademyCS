@@ -54,7 +54,7 @@ Checking the variables correlations to the Loan Status, we found that the most c
 
 # Jonathan
 <img src="ttps://github.com/NJAimesD/AIAcademyCS/assets/159951082/b14064e7-8d38-4b7b-bcda-69aecbf566a4" width="500" /> 
-
+test test 
 ### Data processing
 # Adam
 ### Models evaluated
